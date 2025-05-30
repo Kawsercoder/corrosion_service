@@ -1,0 +1,35 @@
+.navbar-brand img{
+    width: 50%;
+}
+
+.bannerimage {
+  background-image: url('images/pipeline-right-of-way-ac-interference-as61187995.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+  position: relative;
+}
+
+.herotext {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-align: center;
+}
+
+
+.herotext h1 {
+  font-size: 3em;
+  color: #000;
+  margin: 0;
+}
+.herotext p {
+  font-size: 1.5em;
+  color: #000;
+  margin: 10px 0;
+}
+
